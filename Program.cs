@@ -1,0 +1,10 @@
+﻿using EmployeeManagementSystem.Screens;
+using System;
+
+public static class Program
+{
+    public static void Main(string[] args)
+    {
+        MainMenuScreen.Show();
+    }
+}
