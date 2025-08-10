@@ -22,11 +22,11 @@ You can add, view, update, delete employees, and filter or summarize employee da
 
 ```
 EmployeeManagementSystem/
-├── Helpers/ # Input validation and reading helpers
-├── Models/ # Employee and Address data models with enums
-├── Services/ # Business logic for employee management + file storage
-├── Screens/ # UI screens for Add, View, Update, Delete, Main
-└── Program.cs # Application entry point
+├── Helpers/    # Input validation and reading helpers
+├── Models/     # Employee and Address data models with enums
+├── Services/   # Business logic for employee management + file storage
+├── Screens/    # UI screens for Add, View, Update, Delete, Main
+└── Program.cs  # Application entry point
 ```
 
 ---
