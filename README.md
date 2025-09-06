@@ -103,7 +103,7 @@ EmployeeManagementSystem/
 
 📎 [Task Requirements (Google Drive)](https://drive.google.com/drive/folders/10U8n-uBXCUBl6RGIvcKfzueng_af0lCA)
 
-📸 [Archived Copy (Google Drive)](https://drive.google.com/drive/u/1/folders/1sb7paWmxPK0UtUOy_JzGELNE5tkZX3az)
+📸 [Archived Copy at submission time (Google Drive)](https://drive.google.com/drive/u/1/folders/1sb7paWmxPK0UtUOy_JzGELNE5tkZX3az)
 
 Made with ❤️ by **Kenzy Ragab**
 
